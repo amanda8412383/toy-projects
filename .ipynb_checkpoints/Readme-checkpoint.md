@@ -17,11 +17,22 @@ containing 4 programming assignments I did for Ph.D. courses econometrics2 in Un
    - **problem set 4:** comparing GMM estimation using identity matrix and optimal weight matrix in the given setting, then doing overidentification test
 ---
 
-### ![#A3D648](https://via.placeholder.com/15/a3d648/000000?text=+) <span style="color:#a3d648">**macro Octave model simulation improve :**</span> 
+### ![#A3D648](https://via.placeholder.com/15/a3d648/000000?text=+) <span style="color:#a3d648">**macro Octave model simulation improve :**</span>  
+
 including 7 ipynb showing simulation of variation of the Ramsey model in macroeconomics from simplified to complicated ones. Rewriting the course content is to assist my understanding of the model and enhancing the automaticity. Sympy is greatly used to recreate the process of doing derivatives in class. In the last problem set, I introduce ipywidget to make it interactive.  
 
 ---
+### ![#A3D648](https://via.placeholder.com/15/f08080/000000?text=+) <span style="color:LIGHTCORAL">**trivago ig crawling analysis :**</span> 
 
-### ![#F08080](https://via.placeholder.com/15/f08080/000000?text=+) <span style="color:LIGHTCORAL">**phd_econometrics_HW :**</span> 
+This is a toy project made for self-learning. I modified existing codes from other programmers to crawl Instagram data of Trivago and its main competitors(bookingcom, tripadvisor,airbnb, expedia) and visualize the collected data in another ipynb.
+
+
 ---
 
+### ![#F08080](https://via.placeholder.com/15/a3d648/000000?text=+) <span style="color:#a3d648">**mazda twitter :**</span> 
+
+This is a toy project created for self-learning. In this file, tweepy is used to collect data from Mazda's Twitter account, including @Mazda_Europe, @MazdaUSA, @Mazda_UK, @Mazda_Ireland, @MazdaNL, @MazdaOficial to compare the social media management across different branches and visualize the result.
+
+---
+<!-- ### ![#A3D648](https://via.placeholder.com/15/a3d648/000000?text=+) <span style="color:#a3d648">**macro Octave model simulation improve :**</span> 
+--- -->

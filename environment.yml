@@ -1,7 +1,6 @@
-name: student_project
+name: testing
 
 dependencies:
-
 - numpy
 - pandas
 - jupyterlab
@@ -21,6 +20,7 @@ dependencies:
 
 
 - pip:
-  
+  - tweepy
+  - wordcloud
 
 
