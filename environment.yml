@@ -1,6 +1,7 @@
 name: student_project
 
 dependencies:
+
 - numpy
 - pandas
 - jupyterlab
@@ -13,7 +14,13 @@ dependencies:
 - sympy
 - ipywidgets
 - future
+- requests
+- pyquery
+- Pillow
+
+
 
 - pip:
+  
 
 
