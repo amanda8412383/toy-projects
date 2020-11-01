@@ -19,5 +19,5 @@ jobs:
       shell: bash -l {0}
       run: |
         export PATH="$PATH:/usr/share/miniconda/bin"
-        source .envrc
+        source activate testing
         jupyter nbconvert --execute --ExecutePreprocessor.timeout=-1 *.ipynb
