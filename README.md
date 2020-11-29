@@ -1,6 +1,6 @@
 This respiratory gathers part of the course assignments and toy projects I have done, it is connected to Travis to ensure the reproductivity of all files inside. It is also possible to view through _mybinder_.
 
-[![Build Status](https://travis-ci.com/amanda8412383/Replication-testing.svg?branch=main)](https://travis-ci.com/amanda8412383/Replication-testing)
+[![Build Status](https://travis-ci.com/amanda8412383/toy-projects.svg?branch=main)](https://travis-ci.com/amanda8412383/toy-projects)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/amanda8412383/Replication-testing/HEAD)
 
